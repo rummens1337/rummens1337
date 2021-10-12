@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Hi there 👋
+[![Rummens1337' github stats](https://github-readme-stats.vercel.app/api?username=rummens1337&show_icons=true&hide_border=true)](https://michelrummens.com)
+
 <!--
 **rummens1337/rummens1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
