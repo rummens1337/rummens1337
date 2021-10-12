@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-### Hi there 👋
 [![Rummens1337' github stats](https://github-readme-stats.vercel.app/api?username=rummens1337&show_icons=true&hide_border=true)](https://michelrummens.com)
 
 <!--
